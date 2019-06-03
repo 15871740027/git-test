@@ -6,6 +6,11 @@ public class FristClass {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("hello git");
+
     }
 
+    public void test(){
+        System.out.println("测试远程仓库");
+
+    }
 }
